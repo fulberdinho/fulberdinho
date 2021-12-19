@@ -1,6 +1,6 @@
-- 👋 Hi, I’m fulbert KOUEVI Web and mobile developer... 
+- 👋 Hi, I’m fulbert Analyste Programmer 
 
 <!---
-fulberdinho/financiaclub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fulberdinho/restaurant-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
